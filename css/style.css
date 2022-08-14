@@ -7,7 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: black;
+  transition: 0.5s;
 }
 .main {
   width: 100%;
@@ -30,6 +30,7 @@ button {
   background-color: black;
   color: white;
   border: none;
+  cursor: pointer;
   border-radius: 5px;
   display: block;
   font-size: 35px;
